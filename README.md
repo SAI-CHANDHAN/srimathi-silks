@@ -48,7 +48,6 @@ Srimathi Silks is a modern e-commerce and catalog experience for a premium saree
 
 ## Screenshots 📸
 
-> Screenshots will be added here as the app evolves.
 
 ![Home Page](./Screenshots/Homepage.png)
 
