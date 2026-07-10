@@ -1,12 +1,9 @@
+
 # Srimathi Silks
 
 ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react) ![Vite](https://img.shields.io/badge/Vite-8-646CFF?logo=vite) ![Firebase](https://img.shields.io/badge/Firebase-Firestore%20%2B%20Auth-FFCA28?logo=firebase) ![Razorpay](https://img.shields.io/badge/Payments-Razorpay-0052CC?logo=razorpay) ![License](https://img.shields.io/badge/License-Not%20Specified-red) ![Last Commit](https://img.shields.io/github/last-commit/SAI-CHANDHAN/srimathi-silks2?logo=github) ![Deploy](https://img.shields.io/badge/Deploy-Vercel-black?logo=vercel)
 
-> Live Demo: TBD — replace with your deployed Vercel URL when available.
-
-## Project Banner Placeholder
-
-![Srimathi Silks Banner](https://placehold.co/1400x420/5A0F1C/C9A14A?text=Srimathi+Silks)
+> Live Demo: https://srimathisilks.vercel.app/
 
 ## Short Project Description
 
@@ -53,11 +50,11 @@ Srimathi Silks is a modern e-commerce and catalog experience for a premium saree
 
 > Screenshots will be added here as the app evolves.
 
-![Home Page](./Screenshots/Homepage.png)
+![Home Page Placeholder](https://github.com/user-attachments/assets/1794bb46-c44f-4be6-b10f-c63813ab7a76)
 
-![Products Page](./Screenshots/Productspage.png)
+![Products Page Placeholder](https://srimathisilks.vercel.app/products)
 
-![Admin Dashboard](./Screenshots/Adminpage.png)
+![Admin Dashboard Placeholder](https://srimathisilks.vercel.app/admin)
 
 ## Tech Stack 🛠️
 
@@ -318,7 +315,7 @@ No license has been specified for this repository yet. Please contact the mainta
 - Name: Sai Chandhan Reddy Annapureddy
 - GitHub: https://github.com/SAI-CHANDHAN
 - Portfolio: https://saichandhan.online/
-- LinkedIn: https://www.linkedin.com/in/your-profile
+- LinkedIn: https://www.linkedin.com/in/saichandhanannapureddy/
 
 ---
 
