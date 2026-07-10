@@ -50,11 +50,11 @@ Srimathi Silks is a modern e-commerce and catalog experience for a premium saree
 
 > Screenshots will be added here as the app evolves.
 
-![Home Page Placeholder](https://github.com/user-attachments/assets/1794bb46-c44f-4be6-b10f-c63813ab7a76)
+![Home Page](./Screenshots/Homepage.png)
 
-![Products Page Placeholder](https://srimathisilks.vercel.app/products)
+![Products Page](./Screenshots/Productspage.png)
 
-![Admin Dashboard Placeholder](https://srimathisilks.vercel.app/admin)
+![Admin Dashboard](./Screenshots/Adminpage.png)
 
 ## Tech Stack 🛠️
 
